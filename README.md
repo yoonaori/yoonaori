@@ -4,10 +4,6 @@
   Hi there 👋
 </h3>
 
-<p align="center">
-  저는 웹 개발자가 되기 위해 열심히 공부중인 취준생입니다 !
-</p>
-
 <div align=center>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonaori)](https://github.com/yoonaori/github-readme-stats)
