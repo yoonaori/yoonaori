@@ -1,25 +1,28 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Hi%20!%20I'm%20Yoon%20A%20!&fontSize=40)
-
-<h3 align="center"> 
-  Hi there 👋
-</h3>
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=YoonA's%20Github&fontSize=40)
+<br><br>
 
 <div align=center>
+  <h3>🛠 Tools</h3> 
+  <img src="https://img.shields.io/badge/ECLIPSE%20IDE-FE7A16?style=flat&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <br><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonaori)](https://github.com/yoonaori/github-readme-stats)
+  <h3>✏️ Studying</h3>
+  <img src="https://img.shields.io/badge/-JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <br><br>
+
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonaori)](https://github.com/yoonaori/github-readme-stats)
 </div>
 
 
-<h3 align="center">
-  ✏️ Tech Stack ✏️
-</h3>
 
-<div align=center>
-  
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
-  ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat-square&logo=C&logoColor=white)
-  ![자바](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=Java&logoColor=ffffff)
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-</div>
+
