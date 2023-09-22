@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=YoonA's%20Github&fontSize=40)
-<br><br>
-
 <div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=YoonA's%20Github&fontSize=40" />
+  <br><br>
+  
   <h3>🛠 Tools</h3> 
   <img src="https://img.shields.io/badge/ECLIPSE%20IDE-FE7A16?style=flat&logo=eclipseide&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <br><br>
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonaori)](https://github.com/yoonaori/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonaori&layout=compact">  <img src="https://github-readme-stats.vercel.app/api?username=yoonaori&show_icons=true">
 </div>
 
 
